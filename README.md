@@ -1,1 +1,1 @@
-some recipes
+A basic html project about recipes.
